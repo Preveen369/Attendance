@@ -86,14 +86,6 @@ AttendanceApp/
 
 ---
 
-## 🧩 Future Enhancements
-- 🔄 Firebase or SQLite database integration
-- 📅 Attendance marking by user input
-- 📈 Graphical attendance analytics
-- 📤 Export attendance to Excel/PDF
-
----
-
 ## 🤝 Contributing
 Contributions are welcome! 🚀 If you have ideas or improvements, follow these steps:
 
