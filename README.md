@@ -56,13 +56,15 @@ Attendance/
             │       ├── Home.java               # Logged-in home screen
             │       ├── ViewAttendance.java     # List view of attendance
             └── res/
-                ├── layout/                     # XML UI layouts
+                ├── drawable/                   # Image resources
+                ├── layout/                     # XML layouts for activities
                 │   ├── activity_main.xml
                 │   ├── activity_register.xml
                 │   ├── activity_home.xml
                 │   └── activity_view_attendance.xml
-                └── values/
+                └── values/                     # String, style, and other resources
                     └── strings.xml, styles.xml
+                    
 ```
 
 ---
