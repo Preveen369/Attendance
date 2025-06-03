@@ -45,7 +45,7 @@ Ideal for beginners and students, this project serves as a **starter template** 
 ## 📂 Project Structure
 
 ```
-AttendanceApp/
+Attendance/
 └── app/
     └── src/
         └── main/
