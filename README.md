@@ -1,4 +1,4 @@
-# 📅 Smart Attendance App
+# 📅 Attendance App
 
 ![Platform](https://img.shields.io/badge/Platform-Android-blue.svg)
 ![Tech](https://img.shields.io/badge/Backend-Local%20Storage-lightgrey.svg)
@@ -6,7 +6,7 @@
 ![UI](https://img.shields.io/badge/UI-XML-green.svg)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
 
-**Smart Attendance App** is a simple yet efficient Android-based mobile application designed to manage and track student attendance digitally. Developed using Java and XML, this app demonstrates fundamental Android development practices including user authentication, activity navigation, and list-based data display.
+**Attendance App** is a simple yet efficient Android-based mobile application designed to manage and track student attendance digitally. Developed using Java and XML, this app demonstrates fundamental Android development practices including user authentication, activity navigation, and list-based data display.
 
 Ideal for beginners and students, this project serves as a **starter template** for building apps with login/register systems and custom user dashboards.
 
