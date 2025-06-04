@@ -1,7 +1,7 @@
 # 📅 Attendance App
 
 ![Platform](https://img.shields.io/badge/Platform-Android-blue.svg)
-![Tech](https://img.shields.io/badge/Backend-Local%20Storage-lightgrey.svg)
+![Tech](https://img.shields.io/badge/Backend-Firebase-lightgrey.svg)
 ![Language](https://img.shields.io/badge/Language-Java-yellow.svg)
 ![UI](https://img.shields.io/badge/UI-XML-green.svg)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
