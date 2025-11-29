@@ -112,7 +112,7 @@ Contributions are welcome! 🚀 If you have ideas or improvements, follow these 
 For any queries or collaboration:
 
 - 📬 **Email:** spreveen123@gmail.com
-- 🌐 **LinkedIn:** [Preveen S](https://linkedin.com/in/preveen-s)
+- 🌐 **LinkedIn:** https://linkedin.com/in/preveen-s
 
 ---
 
